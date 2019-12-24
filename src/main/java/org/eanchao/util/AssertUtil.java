@@ -8,8 +8,7 @@ import org.eanchao.exception.CMSRuntimeException;
 /**
  * 说明:
  * 
- * @author howsun ->[howsun.zhang@gmail.com]
- * @version 1.0
+ * @author Eanchao
  *
  * 2018年1月10日 下午2:16:37
  */
